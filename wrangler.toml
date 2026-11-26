@@ -1,0 +1,3 @@
+name = "bonusronud"
+main = "worker.js"
+compatibility_date = "2025-07-16"
